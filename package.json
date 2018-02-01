@@ -1,0 +1,32 @@
+{
+  "name": "react-native-flexi-radio-button",
+  "version": "0.2.2",
+  "description": "Radio button component for React Native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eXist-FraGGer/react-native-flexi-radio-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "radio",
+    "button",
+    "radio-button",
+    "react-component",
+    "ios",
+    "android",
+    "radio-buttons"
+  ],
+  "peerDependencies": {
+    "react-native": ">= 0.25"
+  },
+  "author": "Ivan Sorokin (https://github.com/eXist-FraGGer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eXist-FraGGer/react-native-flexi-radio-button/issues"
+  },
+  "homepage": "https://github.com/eXist-FraGGer/react-native-flexi-radio-button"
+}
