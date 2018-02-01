@@ -1,10 +1,10 @@
-import * as React    from 'react';
-import { ViewStyle } from 'react-native';
+import * as React               from 'react';
+import { StyleProp, ViewStyle } from 'react-native';
 
 interface RadioButtonProps {
     value?: any,
     color?: string,
-    style?: ViewStyle,
+    style?: StyleProp<ViewStyle>,
     disabled?: boolean
 }
 
@@ -13,7 +13,7 @@ interface RadioGroupProps {
     size?: number,
     thickness?: number,
     selectedIndex?: number,
-    style?: ViewStyle,
+    style?: StyleProp<ViewStyle>,
     color?: string,
     activeColor?: string,
     borderColor?: string,
