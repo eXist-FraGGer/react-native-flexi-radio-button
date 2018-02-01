@@ -3,7 +3,7 @@ Simple and flexible Radio button for React Native App
 
 ## Installation
 ```
-npm i react-native-flexi-radio-button --save
+npm i eXist-FraGGer/react-native-flexi-radio-button --save
 ```
 
 ## Usage
